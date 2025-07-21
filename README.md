@@ -38,7 +38,7 @@ This was my **first real game project**, and I learned:
 - Completed first version: **Late December 2024**
 - Improvements and polish: **January–February 2025**
 
-## 📸 Screenshots
+## 📸= Screenshots
 
 *(Add images here if available: gameplay screenshot, start screen, etc.)*
 
